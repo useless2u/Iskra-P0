@@ -8,7 +8,6 @@
 // git clone http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.c.git
 // cd org.eclipse.paho.mqtt.c
 // make
-// make install
 // sudo make install
 
 // gcc -o iskra iskra.c -lpaho-mqtt3c  -lpthread
