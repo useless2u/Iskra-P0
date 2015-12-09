@@ -11,4 +11,6 @@ cd org.eclipse.paho.mqtt.c
 make
 sudo make install
 
+Review/edit port and ip settings in code!
+
 gcc -o iskra iskra.c -lpaho-mqtt3c  -lpthread
