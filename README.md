@@ -1,5 +1,5 @@
 Iskra P0 ( infrared comm ) mqtt publisher for Domoticz
-use a cronjob on the pi 
+use a cronjob on the pi
 sudo nano /etc/crontab
 */5 * * * * root /home/pi/iskra-meter/iskra
 
